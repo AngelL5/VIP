@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "appId": "4f68ebe6-cdfe-48db-926b-cd277963845c",
+  "appDisplayName": "NT Vendor Invoice Portal",
+  "region": "prod",
+  "environmentId": "be594fa8-3533-ee59-a165-f2f38cac0bd3",
+  "description": "",
+  "buildPath": "./dist",
+  "buildEntryPoint": "index.html",
+  "localAppUrl": "http://localhost:3000",
+  "logoPath": "Default",
+  "connectionReferences": {},
+  "databaseReferences": {}
+}
